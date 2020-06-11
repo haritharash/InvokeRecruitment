@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InvokeRecruitment/static/css/main.6bcaed90.chunk.css",
+    "main.js": "/InvokeRecruitment/static/js/main.012010e6.chunk.js",
+    "main.js.map": "/InvokeRecruitment/static/js/main.012010e6.chunk.js.map",
+    "runtime-main.js": "/InvokeRecruitment/static/js/runtime-main.466307cb.js",
+    "runtime-main.js.map": "/InvokeRecruitment/static/js/runtime-main.466307cb.js.map",
+    "static/js/2.ac97489e.chunk.js": "/InvokeRecruitment/static/js/2.ac97489e.chunk.js",
+    "static/js/2.ac97489e.chunk.js.map": "/InvokeRecruitment/static/js/2.ac97489e.chunk.js.map",
+    "index.html": "/InvokeRecruitment/index.html",
+    "precache-manifest.3600c4190cdc2746c2913db4c004f0cb.js": "/InvokeRecruitment/precache-manifest.3600c4190cdc2746c2913db4c004f0cb.js",
+    "service-worker.js": "/InvokeRecruitment/service-worker.js",
+    "static/css/main.6bcaed90.chunk.css.map": "/InvokeRecruitment/static/css/main.6bcaed90.chunk.css.map",
+    "static/js/2.ac97489e.chunk.js.LICENSE.txt": "/InvokeRecruitment/static/js/2.ac97489e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.466307cb.js",
+    "static/js/2.ac97489e.chunk.js",
+    "static/css/main.6bcaed90.chunk.css",
+    "static/js/main.012010e6.chunk.js"
+  ]
+}
